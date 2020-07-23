@@ -1,4 +1,4 @@
-package com.guest.service;
+package com.guest.exceptions;
 
 import java.sql.Connection;
 import java.sql.SQLException;

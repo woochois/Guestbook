@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.guest.service.DeleteMessageService;
+import com.guest.exceptions.DeleteMessageService;
 
 @WebServlet("/DeleteMessageServiceTestServlet")
 public class DeleteMessageServiceTestServlet extends HttpServlet {

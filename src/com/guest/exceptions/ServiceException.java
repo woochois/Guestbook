@@ -1,4 +1,4 @@
-package com.guest.service;
+package com.guest.exceptions;
 
 public class ServiceException extends RuntimeException {
 
