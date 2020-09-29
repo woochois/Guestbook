@@ -1,1 +1,1 @@
-# Guestbook Example
+# 방명록 예제
